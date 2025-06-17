@@ -1,0 +1,6 @@
+{
+  "https://icanhazdadjoke.com/searchlimit-2_term-detective": "{\"current_page\":1,\"limit\":2,\"next_page\":1,\"previous_page\":1,\"results\":[{\"id\":\"X0wkGJtPKuc\",\"joke\":\"Why do ducks make great detectives? They always quack the case.\"}],\"search_term\":\"detective\",\"status\":200,\"total_jokes\":1,\"total_pages\":1}\n",
+  "https://icanhazdadjoke.com/searchlimit-2_term-countrys": "{\"current_page\":1,\"limit\":2,\"next_page\":1,\"previous_page\":1,\"results\":[],\"search_term\":\"countrys\",\"status\":200,\"total_jokes\":0,\"total_pages\":1}\n",
+  "https://icanhazdadjoke.com/searchlimit-2_term-tchalla": "{\"current_page\":1,\"limit\":2,\"next_page\":1,\"previous_page\":1,\"results\":[],\"search_term\":\"tchalla\",\"status\":200,\"total_jokes\":0,\"total_pages\":1}\n",
+  "https://icanhazdadjoke.com/searchlimit-2_term-wakanda": "{\"current_page\":1,\"limit\":2,\"next_page\":1,\"previous_page\":1,\"results\":[],\"search_term\":\"wakanda\",\"status\":200,\"total_jokes\":0,\"total_pages\":1}\n"
+}
